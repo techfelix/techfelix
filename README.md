@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hello World 👋
+- 🌱 I’m currently learning Python
+- 👀 I’m interested in everything that has to do with tech
 <!--
 **mgffelix/mgffelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

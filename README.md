@@ -1,5 +1,6 @@
 ### Hello world!
-- 👋 Hi, I’m techfelix
+- 👋 Hi, I’m Felix
+- 🚀 I joined [Hack Club](https://github.com/hackclub)
 - 🌱 I’m currently learning Python and C++
 - 👀 I’m interested in programming and technology
 
